@@ -16,7 +16,7 @@ function fizzbuzz(number) {
 
 try {
   const number = core.getInput('number');
-  console.log(`Calcurate FizzBuzz below ${number}.`);
+  console.log(`Calculate FizzBuzz below ${number}.`);
 
   fizzbuzz(number);
 
