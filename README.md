@@ -10,6 +10,8 @@ Calculate Fizzbuzz below the inputted number.
 
 ## Example usage
 
+```yml
 uses: foresta/actions-fizzbuzz@v1
 with:
 number: 100
+```
