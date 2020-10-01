@@ -4,7 +4,7 @@
   "description": "Calculate Fizzbuzz below the inputted number.",
   "main": "index.js",
   "dependencies": {
-    "@actions/core": "^1.2.0"
+    "@actions/core": "^1.2.6"
   },
   "devDependencies": {},
   "scripts": {
